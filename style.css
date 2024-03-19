@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=Roboto+Condensed:ital,wght@1,300;1,400&family=Roboto+Serif:opsz,wght@8..144,300&display=swap');
+
+body{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+
+}
+.container{
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+}
+
+#score{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+button{
+    margin: 5px;
+   padding: 9px 20px;
+   font-size: 16px;
+   background-color: #6b42d4;
+   color: #fff;
+   border: none;
+   border-radius: 5px;
+   cursor: pointer;
+   
+}
+
+button:hover{
+    background-color: #2e078a;
+
+}
